@@ -1,0 +1,7 @@
+C:\Users\rayar\source\repos\ProductInventry\ProductInventry\bin\Debug\ProductInventry.exe.config
+C:\Users\rayar\source\repos\ProductInventry\ProductInventry\bin\Debug\ProductInventry.exe
+C:\Users\rayar\source\repos\ProductInventry\ProductInventry\bin\Debug\ProductInventry.pdb
+C:\Users\rayar\source\repos\ProductInventry\ProductInventry\obj\Debug\ProductInventry.csproj.AssemblyReference.cache
+C:\Users\rayar\source\repos\ProductInventry\ProductInventry\obj\Debug\ProductInventry.csproj.CoreCompileInputs.cache
+C:\Users\rayar\source\repos\ProductInventry\ProductInventry\obj\Debug\ProductInventry.exe
+C:\Users\rayar\source\repos\ProductInventry\ProductInventry\obj\Debug\ProductInventry.pdb
